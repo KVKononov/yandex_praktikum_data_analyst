@@ -6,6 +6,8 @@
 * Машинное обучение: scikit-learn, XGBoost.
 * Визуализация: matplotlib, plotly, seaborn, Tableau.
 
+Ссылка на Tableau https://public.tableau.com/app/profile/kirill3134
+
 ## Проекты
 | Название проекта | Описание проекта | Библиотеки |
 | ------- | -------- | -------- |
