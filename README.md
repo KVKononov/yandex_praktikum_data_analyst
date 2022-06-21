@@ -1,7 +1,7 @@
 # Портфолио курса "Аналитик данных" Яндекс.Практикума
 
 ## Основные инструменты:
-* Языки: Python, PostgreSQL.
+* Языки: Python, SQL.
 * Анализ данных: pandas, numpy, scipy, pymystem3.
 * Машинное обучение: scikit-learn, XGBoost.
 * Визуализация: matplotlib, plotly, seaborn, Tableau.
